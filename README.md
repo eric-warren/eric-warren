@@ -16,7 +16,6 @@
 [<img align="left" alt="ericwarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/blogger.svg" />][blog]
 
 <br />
-<br />
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
