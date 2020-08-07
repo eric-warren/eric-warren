@@ -7,6 +7,11 @@
 - 🥅 2020 Goals: Aquiring CCNP Security
 - ⚡ Fun facts: I love to particpate in CTF's and like to play hockey
 
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Connect with me:
 
 [<img align="left" alt="ericjwarren.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -28,10 +33,6 @@
 
 <br />
 <br />
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
