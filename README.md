@@ -20,6 +20,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Hack: The Day of Reckoning](https://blog.ericjwarren.com/2020/08/07/twitter-hack-the-day-of-reckoning/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
