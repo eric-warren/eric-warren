@@ -21,6 +21,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br />
+<br />
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
