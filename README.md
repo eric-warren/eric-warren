@@ -1,4 +1,4 @@
-### Hi there, I'm Eric - Visit my Blog[blog] 👋
+### Hi there, I'm Eric - Visit my [Blog] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
