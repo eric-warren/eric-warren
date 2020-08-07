@@ -1,4 +1,4 @@
-### Hi there, I'm Eric - Visit my [Blog] 👋
+### Hi there, I'm Eric - Visit my [Website] 👋
 
 ## I'm a Student and Security Enthusiast!
 - 🔭 I’m currently working passing the AZ-500 Exam
@@ -39,7 +39,7 @@
 
 ---
 
-[website]: https://ericjwarren.com
+[Website]: https://ericjwarren.com
 [blog]: https://blog.ericjwarren.com
 [twitter]: https://twitter.com/ericwarren11
 [linkedin]: https://linkedin.com/in/ericwarren1
