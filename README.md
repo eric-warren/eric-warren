@@ -19,6 +19,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Hack: How it Happened](https://blog.ericjwarren.com/2020/08/11/twitter-hack-how-it-happend/)
 - [Twitter Hack: The Day of Reckoning](https://blog.ericjwarren.com/2020/08/07/twitter-hack-the-day-of-reckoning/)
 <!-- BLOG-POST-LIST:END -->
 
