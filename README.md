@@ -1,7 +1,7 @@
 ### Hi there, I'm Eric - Visit my [Website] 👋
 
 ## I'm a Student and Security Enthusiast!
-- 🔭 I’m currently working passing the AZ-500 Exam
+- 🔭 I’m currently working passing the CCNP
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking For 2021 Internships
 - 🥅 2020 Goals: Aquiring CCNP Security
