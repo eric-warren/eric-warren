@@ -19,6 +19,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Down Under CTF Write-up – Formatting](https://blog.ericjwarren.com/2020/09/24/down-under-ctf-write-up-formatting/)
 - [Down Under CTF Write-up – Welcome!](https://blog.ericjwarren.com/2020/09/23/down-under-ctf-write-up-welcome/)
 - [Down Under CTF Write-up – 16 Home Runs](https://blog.ericjwarren.com/2020/09/23/down-under-ctf-write-up-16-home-runs/)
 - [Twitter Hack: How it Happened](https://blog.ericjwarren.com/2020/08/11/twitter-hack-how-it-happend/)
