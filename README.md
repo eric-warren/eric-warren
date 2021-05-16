@@ -1,19 +1,18 @@
 ### Hi there, I'm Eric - Visit my [Website] 👋
 
 ## I'm a Student and Security Enthusiast!
-- 🔭 I’m currently working passing the CCNP
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking For 2021 Internships
-- 🥅 2020 Goals: Aquiring CCNP Security
+- 🔭 I’m currently working passing the SC-200
+- 🌱 I’m currently learning Adavnced Threat Hunting Techniques
+- 🥅 2021 Goals: Aquire SC-200 and improve my CTF skills
 - ⚡ Fun facts: I love to particpate in CTF's and like to play hockey
 
 
 ### Connect with me:
 
-[<img align="left" alt="ericjwarren.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ericwarren | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ericwarren | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ericwarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ericwarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/blogger.svg" />][blog]
+[<img align="left" alt="ericwarren | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][youtube]
 
 <br />
 
@@ -44,6 +43,6 @@
 ---
 
 [Website]: https://ericjwarren.com
-[blog]: https://blog.ericjwarren.com
+[youtube]: https://www.youtube.com/channel/UCBAvhXarO8-goEj0KVf-EIA
 [twitter]: https://twitter.com/ericwarren11
 [linkedin]: https://linkedin.com/in/ericwarren1
