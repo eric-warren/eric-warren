@@ -18,11 +18,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [dCTF 2021 – Simple Web](https://ericjwarren.com/2021/05/18/dctf-2021-simple-web/)
-- [Down Under CTF Write-up – Formatting](https://ericjwarren.com/2020/09/24/down-under-ctf-write-up-formatting/)
-- [Down Under CTF Write-up – Welcome!](https://ericjwarren.com/2020/09/23/down-under-ctf-write-up-welcome/)
-- [Down Under CTF Write-up – 16 Home Runs](https://ericjwarren.com/2020/09/23/down-under-ctf-write-up-16-home-runs/)
-- [Twitter Hack: How it Happened](https://ericjwarren.com/2020/08/11/twitter-hack-how-it-happend/)
+- [Best Practices for Animated Progress Indicators](https://ericjwarren.com/2018/04/06/best-practices-for-animated-progress-indicators/)
+- [Designing the Perfect Feature Comparison Table](https://ericjwarren.com/2018/04/06/designing-the-perfect-feature-comparison-table/)
+- [An Overview of E-Commerce Platforms](https://ericjwarren.com/2018/04/06/an-overview-of-e-commerce-platforms/)
+- [Why I Switched to Sketch For UI Design](https://ericjwarren.com/2018/04/06/why-i-switched-to-sketch-for-ui-design/)
+- [Creative and Innovative Navigation Designs](https://ericjwarren.com/2018/04/06/creative-and-innovative-navigation-designs/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
