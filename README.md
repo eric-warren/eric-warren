@@ -18,11 +18,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Animated Progress Indicators](https://ericjwarren.com/2018/04/06/best-practices-for-animated-progress-indicators/)
-- [Designing the Perfect Feature Comparison Table](https://ericjwarren.com/2018/04/06/designing-the-perfect-feature-comparison-table/)
-- [An Overview of E-Commerce Platforms](https://ericjwarren.com/2018/04/06/an-overview-of-e-commerce-platforms/)
-- [Why I Switched to Sketch For UI Design](https://ericjwarren.com/2018/04/06/why-i-switched-to-sketch-for-ui-design/)
-- [Creative and Innovative Navigation Designs](https://ericjwarren.com/2018/04/06/creative-and-innovative-navigation-designs/)
+- [Lost All my Previous Posts](https://ericjwarren.com/2021/08/21/lost-all-my-previous-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
