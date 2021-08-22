@@ -1,9 +1,9 @@
 ### Hi there, I'm Eric - Visit my [Website] 👋
 
 ## I'm a Student and Security Enthusiast!
-- 🔭 I’m currently working passing the SC-200
-- 🌱 I’m currently learning Adavnced Threat Hunting Techniques
-- 🥅 2021 Goals: Aquire SC-200 and improve my CTF skills
+- 🔭 I’m currently working on my [Blue Team Level 1 Security Ops CertiFfication](https://securityblue.team/why-btl1/)
+- 🌱 I’m currently learning the incident response process
+- 🥅 2021 Goals: Aquire BTL1 Ceet and improve my CTF skills
 - ⚡ Fun facts: I love to particpate in CTF's and like to play hockey
 
 
